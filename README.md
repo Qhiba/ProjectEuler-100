@@ -1,2 +1,4 @@
-# ProjectEuler-100
-Welcome to my Project Euler repository! Project Euler is a website that offers challenging mathematical and computational problems.
+# First 100 of Project Euler's Problem
+Welcome to my Project Euler repository! Project Euler (https://projecteuler.net/) is a website that offers challenging mathematical and computational problems. In this repository, I hope to solve the first 100 problems using various programming languages that I'm most comfortable with. I hope this project will help me and others improve our problem-solving skills and deepen our understanding of mathematics and computer science. Feel free to explore and learn from my solutions, but please don't copy them without understanding how they work.
+
+> Note: This repository will only contains my solutions to the first 100 problems from Project Euler, in compliance with the website's policies. Please do not use this repository to publish solutions to problems beyond the first 100, as doing so would violate the website's terms of use. Thank you for your understanding.
